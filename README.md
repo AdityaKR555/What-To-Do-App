@@ -25,6 +25,15 @@
 
 ---
 
+#🚀 Getting Started
+##Clone the repository:
+
+git clone https://github.com/yourusername/WhatToDo.git
+
+Open the project in Android Studio.
+
+Build and run on an Android device or emulator.
+
 ## 📁 Folder Structure
 
 ```plaintext
@@ -41,12 +50,7 @@ WhatToDo/
 │   │   │   └── res/layout/
 │   │   │       └── addtasks_dialog.xml, fragment_all.xml, etc.
 
+---
 
-#🚀 Getting Started
-##Clone the repository:
 
-git clone https://github.com/yourusername/WhatToDo.git
 
-Open the project in Android Studio.
-
-Build and run on an Android device or emulator.
