@@ -25,9 +25,9 @@
 
 ---
 
-#🚀 Getting Started
+# 🚀 Getting Started
 
-##Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/yourusername/WhatToDo.git
 
